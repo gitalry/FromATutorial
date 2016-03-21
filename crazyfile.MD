@@ -1,2 +1,1 @@
-GUIHFGTGV
-GV
+A famous surgeon went on a safari in Africa. When he came back, his colleagues asked him how it had been. 'Oh, it was very disappointing,' he said. 'I didn't kill a thing. I'd have been better off staying here in the hospital.' 
