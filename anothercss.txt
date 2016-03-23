@@ -1,5 +1,5 @@
 
-/* This is the style sheet is for rembesha'ng my web pages */
+/*this is a css*/
 
 body {
     width: 100%;
@@ -43,7 +43,7 @@ li a {
 li a:hover {
     background-color: black;
 }
-#juu {
+#upper {
     background-image: url("images/green.jpg");
     background-size: auto;
     font-family: monospace;
